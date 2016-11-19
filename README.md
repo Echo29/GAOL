@@ -1,0 +1,2 @@
+# GAOL
+A rare place
